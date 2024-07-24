@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MatheusFrazatto
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Projects and Work 
+- 📫 How to reach me: matheusfrazattodias@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a video/photo editor too!
