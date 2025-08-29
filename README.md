@@ -11,7 +11,7 @@
   </a>
 </p>
 
-Sou um estudante de Engenharia de Software focado em criar soluções eficientes e escaláveis. Atualmente, estou explorando o ecossistema Python para desenvolvimento de aplicações e automação de infraestrutura.
+Sou estudante de Engenharia de Software focado em criar soluções eficientes e escaláveis. Atualmente, estou explorando o ecossistema Python para desenvolvimento de aplicações e automação de infraestrutura.
 
 ## 🚀 Tecnologias e Ferramentas
 
