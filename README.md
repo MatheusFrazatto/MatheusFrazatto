@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @MatheusFrazatto
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Projects and Work 
-- 📫 How to reach me: matheusfrazattodias@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a video/photo editor too!
+# Olá, eu sou o Matheus Frazatto Dias! 👋
+
+<br>
+
+<p align="center">
+  <a href="mailto:matheusfrazattodias@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-frazatto-dias-093ba5338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+Sou um estudante de Engenharia de Software focado em criar soluções eficientes e escaláveis. Atualmente, estou explorando o ecossistema Python para desenvolvimento de aplicações e automação de infraestrutura.
+
+## 🚀 Tecnologias e Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,git,docker" />
+  </a>
+</p>
