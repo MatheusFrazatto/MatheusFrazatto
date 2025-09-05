@@ -17,7 +17,7 @@ Sou estudante de Engenharia de Software focado em criar soluções eficientes e 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java, javascript, sqlite" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ Sou estudante de Engenharia de Software focado em criar soluções eficientes e 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= sqlite, git, intellij, webstorm, pycharm, vscode" />
+    <img src="https://skillicons.dev/icons?i=sqlite,git,docker,linux" />
   </a>
 </p>
 
