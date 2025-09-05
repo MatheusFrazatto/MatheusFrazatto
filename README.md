@@ -13,10 +13,20 @@
 
 Sou estudante de Engenharia de Software focado em criar soluções eficientes e escaláveis. Atualmente, estou explorando o ecossistema Python para desenvolvimento de aplicações e automação de infraestrutura.
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Linguagens
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,sqlite,git,docker" />
+    <img src="https://skillicons.dev/icons?i=python,java, javascript, sqlite" />
   </a>
 </p>
+
+## Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i= sqlite, git, intellij, webstorm, pycharm, vscode" />
+  </a>
+</p>
+
+
