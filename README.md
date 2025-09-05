@@ -17,6 +17,6 @@ Sou estudante de Engenharia de Software focado em criar soluções eficientes e 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,git,docker" />
+    <img src="https://skillicons.dev/icons?i=python,java,sqlite,git,docker" />
   </a>
 </p>
