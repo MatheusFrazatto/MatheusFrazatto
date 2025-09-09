@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus Frazatto Dias! 👋
+<h1 align="center">Olá 👋, eu sou o Matheus Frazatto Dias!</h1>
 
 <br>
 
@@ -11,7 +11,8 @@
   </a>
 </p>
 
-Sou estudante de Engenharia de Software focado em criar soluções eficientes e escaláveis. Atualmente, estou explorando o ecossistema Python para desenvolvimento de aplicações e automação de infraestrutura.
+Estudante de Engenharia de Software com foco em soluções eficientes e escaláveis.
+Experiência em Python para automação e desenvolvimento de aplicações, e aprendendo Java, JavaScript e SQL para expandir minha atuação.
 
 ## 🚀 Linguagens
 
