@@ -30,4 +30,13 @@ Experiência em Python para automação e desenvolvimento de aplicações, e apr
   </a>
 </p>
 
+## 📊GitHub Stats :
+<div align="center"> 
+<img src= "https://github-readme-streak-stats.herokuapp.com/?user=MatheusFrazatto&theme=dark" width="46%" alt="stats graph" />
+
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFrazatto&theme=dark" width="33%" alt="stats graph" />
+
+</div>
+<br>
+
 
