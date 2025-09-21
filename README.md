@@ -33,12 +33,10 @@
   </a>
 </p>
 
-## 📊GitHub Stats :
-<div align="center"> 
-<img src= "https://github-readme-streak-stats.herokuapp.com/?user=MatheusFrazatto&theme=dark" width="46%" alt="stats graph" />
-
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFrazatto&theme=dark" width="33%" alt="stats graph" />
-
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusFrazatto&theme=transparent&hide_border=true" width="46%" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFrazatto&theme=transparent&hide_border=true&layout=compact" width="33%" alt="stats graph" />
 </div>
 <br>
 
