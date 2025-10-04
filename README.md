@@ -56,14 +56,9 @@
   </tr>
 </table>
 
-
-
-
 ## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusFrazatto&theme=transparent&hide_border=true" width="46%" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFrazatto&theme=transparent&hide_border=true&layout=compact" width="33%" alt="stats graph" />
-</div>
-<br>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusFrazatto&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="49.5%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFrazatto&theme=transparent&hide_border=true&layout=compact" width="49.5%" alt="Top Languages" />
+</p>
 
