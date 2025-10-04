@@ -41,16 +41,17 @@
     <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/MatheusFrazatto/NAYP---Game_Log_CLI">NAYP - Game Log CLI</a></h3>
       <p>CLI application in <b>Java</b> to catalog virtual games with layered architecture.</p>
-      <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=java" />
+      <img src="https://img.shields.io/badge/Maven-3.8+-red?style=for-the-badge&logo=apache-maven" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite" />
+      <img src="https://img.shields.io/badge/RAWG_API-000000?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
       <h3>📥 <a href="https://github.com/MatheusFrazatto/YouDri">YouDri - YouTube to Drive</a></h3>
       <p>Automates video downloads from YouTube and uploads them to Google Drive.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python" />
+      <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube" />
       <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-      <img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=oauth&logoColor=white" />
     </td>
   </tr>
 </table>
