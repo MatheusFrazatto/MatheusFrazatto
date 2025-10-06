@@ -47,7 +47,7 @@
       <img src="https://img.shields.io/badge/RAWG_API-000000?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <h3>📥 <a href="https://github.com/MatheusFrazatto/YouDri">YouDri - YouTube to Drive</a></h3>
+      <h3>📥 <a href="https://github.com/MatheusFrazatto/YouDri---Youtube_To_Drive">YouDri - YouTube to Drive</a></h3>
       <p>Automates video downloads from YouTube and uploads them to Google Drive.</p>
       <img src="https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python" />
       <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube" />
